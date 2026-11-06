@@ -92,5 +92,4 @@ Entity and model classes for animals, transactions, and weather logs are already
 - MVC design pattern
 
 ## Author
-
-- Monggj
+Monggj
